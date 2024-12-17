@@ -16,13 +16,6 @@ public class LoginPage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void news()
-
-	{
-		System.out.println("one");
-		System.out.println("two");
-		System.out.println("three");
-	}
 	
 	
 	@FindBy(id="user-name")
