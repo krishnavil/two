@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Aid
+Bundle-SymbolicName: Aid
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Aid.jar,
+ madhu/.m2/repository/org/seleniumhq/selenium/selenium-api/4.27.0/selenium-api-4.27.0.jar,
+ madhu/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar
+Automatic-Module-Name: Aid
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: com.project.base,
+ com.project.testcases,
+ com.project.utilities
