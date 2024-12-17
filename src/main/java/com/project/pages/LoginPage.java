@@ -9,10 +9,14 @@ public class LoginPage {
 	
 	WebDriver driver;
 
+<<<<<<< HEAD
 	public void ma1()
 	{
 		System.out.println("gitstuff");
 	}
+=======
+	
+>>>>>>> 49fc7ce932fdaeb50fe549794ffd5f768680ac02
 	
 	public LoginPage(WebDriver driver)
 	{
