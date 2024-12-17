@@ -9,7 +9,7 @@ public class LoginPage {
 	
 	WebDriver driver;
 
-	public void m1()
+	public void ma1()
 	{
 		System.out.println("gitstuff");
 	}
