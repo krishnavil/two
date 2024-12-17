@@ -9,11 +9,18 @@ public class LoginPage {
 	
 	WebDriver driver;
 
+	public void m1()
+	{
+		System.out.println("gitstuff");
+	}
+	
 	public LoginPage(WebDriver driver)
 	{
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
+	
+	
 	
 	@FindBy(id="user-name")
 	WebElement usernames;
